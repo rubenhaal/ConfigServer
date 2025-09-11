@@ -1,0 +1,4 @@
+app:
+  message: "Hola desde Config Server local (perfil dev) 👋"
+server:
+  port: 8081

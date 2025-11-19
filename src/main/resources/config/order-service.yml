@@ -1,0 +1,3 @@
+order-service:
+  welcome-message: "Testing message"
+  environment: "dev"

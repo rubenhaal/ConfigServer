@@ -1,6 +1,6 @@
 ## 🌍 Languages
 - [English](#English)
-- [Deutsch](#Deutch)
+- [Deutsch](#Deutsch)
 
 ## English
 
@@ -88,7 +88,7 @@ server:
 port: 8081
 ```
 
-## Deutch
+## Deutsch
 
 
 #  Spring Cloud Config Server

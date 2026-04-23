@@ -3,3 +3,19 @@ app:
 
 order-service:
   welcome-message: "Testing message"
+
+spring:
+  rabbitmq:
+    dynamic: true
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+rabbit:
+  queues:
+    order-created: order.created.queue
+  exchanges:
+    order-events: order.events.exchange
+  routing-keys:
+    order-created: order.created
